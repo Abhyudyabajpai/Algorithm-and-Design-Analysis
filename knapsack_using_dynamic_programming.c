@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int max(int a, int b) { return (a > b)? a : b; }
 // Returns the maximum value that can be put in a knapsack of capacity W
 int knapsack(int W, int wt[], int val[], int n)
@@ -24,6 +24,8 @@ int knapsack(int W, int wt[], int val[], int n)
    return K[n][W];
 }
  
+
+
 int main()
 {
     int val[] = {60, 100, 120};
