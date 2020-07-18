@@ -2,7 +2,7 @@
 #include <stdio.h> 
 
   
-/* Function to sort an array using insertion sort*/
+
 
 void insertionSort(int arr[], int n) 
 { 
