@@ -7,7 +7,7 @@ struct Node {
 
   
 // Program to create a simple linked 
-// list with 3 nodes 
+
 
 int main() 
 { 
@@ -34,20 +34,9 @@ int main()
 
      We have pointers to these three blocks as head, 
 
-     second and third      
+      
 
-       head           second           third 
-
-        |                |               | 
-
-        |                |               | 
-
-    +---+-----+     +----+----+     +----+----+ 
-
-    | #  | #  |     | #  | #  |     |  # |  # | 
-
-    +---+-----+     +----+----+     +----+----+ 
-
+       
      
 
    # represents any random value. 
