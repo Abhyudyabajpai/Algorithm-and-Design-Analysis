@@ -2,6 +2,7 @@
 #include<cstdio>
 #include<cstdlib>
 using namespace std;
+
 struct nod {
    int info;
    struct nod *n;
