@@ -37,6 +37,7 @@ public class test {
         }
         
         scan.close();
+        
         System.out.println(max);
     }
 }
